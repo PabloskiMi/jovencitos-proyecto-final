@@ -1,0 +1,118 @@
+/*Color de iconos*/
+
+.bi-search{
+    color: #B0E347;
+}
+
+.bi-person-circle{
+    color: #B0E347;
+}
+
+.bi-cart{
+    color: #B0E347;
+}
+
+.bi-heart{
+    color: #B0E347;
+}
+
+/*Card iconos color*/
+.bi-cart-plus-fill{
+    color: green;
+}
+
+.fa-playstation{
+    color: #0070D1;
+}
+
+.fa-microsoft{
+    color: #15AABF;
+}
+
+
+/*Color de iconos de carousel*/
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #B0E347;
+}
+
+/*Footer*/
+.dentro-footer{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.links-sociales{
+    display: flex;
+}
+
+.links-sociales ul{
+    padding: 50px;
+    display: flex;
+    width: 300px;
+    height: 30px;
+    margin: auto;
+}
+
+.item-social{
+    list-style: none;
+}
+
+.item-social a{
+    padding: 10px 12px;
+    font-size: 20px;
+    color: #B0E347;
+    transition: all .25s;
+}
+
+.item-social a:hover{
+    color: #87af36;
+}
+
+.links-rapidos{
+    display: flex;
+
+}
+
+.links-rapidos ul{
+    display: flex;
+    margin: auto;
+}
+
+.item-rapido{
+    list-style: none;
+}
+
+.item-rapido a{
+    text-decoration: none;
+    padding: 0px 15px ;
+    font-size: 14px;
+    color: white; 
+    transition: all .25s;
+}
+
+.item-rapido a:hover{
+    color: #B0E347;
+}
+
+.otro-footer-2{
+    padding: 10px;
+    background-color: black;
+}
+
+.otro-footer{
+    padding: 3px;
+    text-align: center;
+    color: black;
+    font-size: 13px;
+    background-color: #B0E347;
+}
+
+
+
+
+
+
+
+
